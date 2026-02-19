@@ -1,0 +1,577 @@
+date,product_id,product_name,category,warehouse,units_sold,unit_price,revenue
+2022-01-01,P001,Filtro de aceite,Mantenimiento,CDMX,272,1975.66,537379.52
+2022-01-01,P001,Filtro de aceite,Mantenimiento,GDL,228,1540.5,351234.0
+2022-01-01,P001,Filtro de aceite,Mantenimiento,MTY,172,1213.01,208637.72
+2022-02-01,P001,Filtro de aceite,Mantenimiento,CDMX,247,914.23,225814.81
+2022-02-01,P001,Filtro de aceite,Mantenimiento,GDL,198,254.26,50343.48
+2022-02-01,P001,Filtro de aceite,Mantenimiento,MTY,151,1838.36,277592.36
+2022-03-01,P001,Filtro de aceite,Mantenimiento,CDMX,239,1071.67,256129.13
+2022-03-01,P001,Filtro de aceite,Mantenimiento,GDL,177,231.06,40897.62
+2022-03-01,P001,Filtro de aceite,Mantenimiento,MTY,159,1030.26,163811.34
+2022-04-01,P001,Filtro de aceite,Mantenimiento,CDMX,214,2460.09,526459.26
+2022-04-01,P001,Filtro de aceite,Mantenimiento,GDL,191,1739.13,332173.83
+2022-04-01,P001,Filtro de aceite,Mantenimiento,MTY,148,1192.19,176444.12
+2022-05-01,P001,Filtro de aceite,Mantenimiento,CDMX,198,158.0,31284.0
+2022-05-01,P001,Filtro de aceite,Mantenimiento,GDL,198,669.53,132566.94
+2022-05-01,P001,Filtro de aceite,Mantenimiento,MTY,164,1571.79,257773.56
+2022-06-01,P001,Filtro de aceite,Mantenimiento,CDMX,225,2103.0,473175.0
+2022-06-01,P001,Filtro de aceite,Mantenimiento,GDL,184,553.72,101884.48
+2022-06-01,P001,Filtro de aceite,Mantenimiento,MTY,146,1917.76,279992.96
+2022-07-01,P001,Filtro de aceite,Mantenimiento,CDMX,255,1471.13,375138.15
+2022-07-01,P001,Filtro de aceite,Mantenimiento,GDL,214,194.53,41629.42
+2022-07-01,P001,Filtro de aceite,Mantenimiento,MTY,185,1060.46,196185.1
+2022-08-01,P001,Filtro de aceite,Mantenimiento,CDMX,281,2325.45,653451.45
+2022-08-01,P001,Filtro de aceite,Mantenimiento,GDL,182,1477.66,268934.12
+2022-08-01,P001,Filtro de aceite,Mantenimiento,MTY,183,1359.59,248804.97
+2022-09-01,P001,Filtro de aceite,Mantenimiento,CDMX,250,1516.47,379117.5
+2022-09-01,P001,Filtro de aceite,Mantenimiento,GDL,213,2417.31,514887.03
+2022-09-01,P001,Filtro de aceite,Mantenimiento,MTY,140,825.13,115518.2
+2022-10-01,P001,Filtro de aceite,Mantenimiento,CDMX,252,513.34,129361.68
+2022-10-01,P001,Filtro de aceite,Mantenimiento,GDL,182,1059.82,192887.24
+2022-10-01,P001,Filtro de aceite,Mantenimiento,MTY,152,818.5,124412.0
+2022-11-01,P001,Filtro de aceite,Mantenimiento,CDMX,252,1562.18,393669.36
+2022-11-01,P001,Filtro de aceite,Mantenimiento,GDL,190,2324.6,441674.0
+2022-11-01,P001,Filtro de aceite,Mantenimiento,MTY,161,2143.09,345037.49
+2022-12-01,P001,Filtro de aceite,Mantenimiento,CDMX,214,1189.69,254593.66
+2022-12-01,P001,Filtro de aceite,Mantenimiento,GDL,158,1711.84,270470.72
+2022-12-01,P001,Filtro de aceite,Mantenimiento,MTY,129,1704.9,219932.1
+2023-01-01,P001,Filtro de aceite,Mantenimiento,CDMX,261,1455.76,379953.36
+2023-01-01,P001,Filtro de aceite,Mantenimiento,GDL,241,1031.37,248560.17
+2023-01-01,P001,Filtro de aceite,Mantenimiento,MTY,180,729.44,131299.2
+2023-02-01,P001,Filtro de aceite,Mantenimiento,CDMX,278,216.23,60111.94
+2023-02-01,P001,Filtro de aceite,Mantenimiento,GDL,191,1165.62,222633.42
+2023-02-01,P001,Filtro de aceite,Mantenimiento,MTY,176,600.09,105615.84
+2023-03-01,P001,Filtro de aceite,Mantenimiento,CDMX,249,1460.6,363689.4
+2023-03-01,P001,Filtro de aceite,Mantenimiento,GDL,207,1775.33,367493.31
+2023-03-01,P001,Filtro de aceite,Mantenimiento,MTY,167,1404.82,234604.94
+2023-04-01,P001,Filtro de aceite,Mantenimiento,CDMX,219,603.29,132120.51
+2023-04-01,P001,Filtro de aceite,Mantenimiento,GDL,185,1773.59,328114.15
+2023-04-01,P001,Filtro de aceite,Mantenimiento,MTY,163,2215.51,361128.13
+2023-05-01,P001,Filtro de aceite,Mantenimiento,CDMX,218,371.08,80895.44
+2023-05-01,P001,Filtro de aceite,Mantenimiento,GDL,204,1206.55,246136.2
+2023-05-01,P001,Filtro de aceite,Mantenimiento,MTY,156,2222.21,346664.76
+2023-06-01,P001,Filtro de aceite,Mantenimiento,CDMX,229,891.94,204254.26
+2023-06-01,P001,Filtro de aceite,Mantenimiento,GDL,193,2278.25,439702.25
+2023-06-01,P001,Filtro de aceite,Mantenimiento,MTY,157,767.67,120524.19
+2023-07-01,P001,Filtro de aceite,Mantenimiento,CDMX,267,511.88,136671.96
+2023-07-01,P001,Filtro de aceite,Mantenimiento,GDL,212,1391.13,294919.56
+2023-07-01,P001,Filtro de aceite,Mantenimiento,MTY,226,761.2,172031.2
+2023-08-01,P001,Filtro de aceite,Mantenimiento,CDMX,265,701.02,185770.3
+2023-08-01,P001,Filtro de aceite,Mantenimiento,GDL,198,1448.28,286759.44
+2023-08-01,P001,Filtro de aceite,Mantenimiento,MTY,167,1081.13,180548.71
+2023-09-01,P001,Filtro de aceite,Mantenimiento,CDMX,256,707.57,181137.92
+2023-09-01,P001,Filtro de aceite,Mantenimiento,GDL,196,1777.2,348331.2
+2023-09-01,P001,Filtro de aceite,Mantenimiento,MTY,157,2494.62,391655.34
+2023-10-01,P001,Filtro de aceite,Mantenimiento,CDMX,258,754.94,194774.52
+2023-10-01,P001,Filtro de aceite,Mantenimiento,GDL,191,198.66,37944.06
+2023-10-01,P001,Filtro de aceite,Mantenimiento,MTY,167,941.27,157192.09
+2023-11-01,P001,Filtro de aceite,Mantenimiento,CDMX,273,1383.62,377728.26
+2023-11-01,P001,Filtro de aceite,Mantenimiento,GDL,204,1185.72,241886.88
+2023-11-01,P001,Filtro de aceite,Mantenimiento,MTY,188,312.43,58736.84
+2023-12-01,P001,Filtro de aceite,Mantenimiento,CDMX,242,999.78,241946.76
+2023-12-01,P001,Filtro de aceite,Mantenimiento,GDL,179,1239.32,221838.28
+2023-12-01,P001,Filtro de aceite,Mantenimiento,MTY,136,2460.55,334634.8
+2022-01-01,P002,Pastillas de freno,Frenos,CDMX,481,1329.51,639494.31
+2022-01-01,P002,Pastillas de freno,Frenos,GDL,395,1776.03,701531.85
+2022-01-01,P002,Pastillas de freno,Frenos,MTY,315,644.17,202913.55
+2022-02-01,P002,Pastillas de freno,Frenos,CDMX,469,1812.54,850081.26
+2022-02-01,P002,Pastillas de freno,Frenos,GDL,323,348.9,112694.7
+2022-02-01,P002,Pastillas de freno,Frenos,MTY,312,2358.45,735836.4
+2022-03-01,P002,Pastillas de freno,Frenos,CDMX,434,2113.75,917367.5
+2022-03-01,P002,Pastillas de freno,Frenos,GDL,259,1728.14,447588.26
+2022-03-01,P002,Pastillas de freno,Frenos,MTY,256,1408.65,360614.4
+2022-04-01,P002,Pastillas de freno,Frenos,CDMX,421,1775.97,747683.37
+2022-04-01,P002,Pastillas de freno,Frenos,GDL,292,2457.56,717607.52
+2022-04-01,P002,Pastillas de freno,Frenos,MTY,250,1349.59,337397.5
+2022-05-01,P002,Pastillas de freno,Frenos,CDMX,416,2220.67,923798.72
+2022-05-01,P002,Pastillas de freno,Frenos,GDL,331,569.12,188378.72
+2022-05-01,P002,Pastillas de freno,Frenos,MTY,291,2135.05,621299.55
+2022-06-01,P002,Pastillas de freno,Frenos,CDMX,396,2158.05,854587.8
+2022-06-01,P002,Pastillas de freno,Frenos,GDL,357,2145.21,765839.97
+2022-06-01,P002,Pastillas de freno,Frenos,MTY,278,2346.81,652413.18
+2022-07-01,P002,Pastillas de freno,Frenos,CDMX,529,1502.03,794573.87
+2022-07-01,P002,Pastillas de freno,Frenos,GDL,421,1006.03,423538.63
+2022-07-01,P002,Pastillas de freno,Frenos,MTY,302,1275.76,385279.52
+2022-08-01,P002,Pastillas de freno,Frenos,CDMX,410,1187.25,486772.5
+2022-08-01,P002,Pastillas de freno,Frenos,GDL,345,545.6,188232.0
+2022-08-01,P002,Pastillas de freno,Frenos,MTY,284,992.2,281784.8
+2022-09-01,P002,Pastillas de freno,Frenos,CDMX,459,853.18,391609.62
+2022-09-01,P002,Pastillas de freno,Frenos,GDL,355,1411.25,500993.75
+2022-09-01,P002,Pastillas de freno,Frenos,MTY,332,716.1,237745.2
+2022-10-01,P002,Pastillas de freno,Frenos,CDMX,423,1523.89,644605.47
+2022-10-01,P002,Pastillas de freno,Frenos,GDL,321,2276.52,730762.92
+2022-10-01,P002,Pastillas de freno,Frenos,MTY,282,1153.86,325388.52
+2022-11-01,P002,Pastillas de freno,Frenos,CDMX,454,1712.04,777266.16
+2022-11-01,P002,Pastillas de freno,Frenos,GDL,282,2176.72,613835.04
+2022-11-01,P002,Pastillas de freno,Frenos,MTY,268,1481.37,397007.16
+2022-12-01,P002,Pastillas de freno,Frenos,CDMX,322,1949.16,627629.52
+2022-12-01,P002,Pastillas de freno,Frenos,GDL,243,2222.72,540120.96
+2022-12-01,P002,Pastillas de freno,Frenos,MTY,236,1899.57,448298.52
+2023-01-01,P002,Pastillas de freno,Frenos,CDMX,518,1435.58,743630.44
+2023-01-01,P002,Pastillas de freno,Frenos,GDL,413,1482.06,612090.78
+2023-01-01,P002,Pastillas de freno,Frenos,MTY,316,758.97,239834.52
+2023-02-01,P002,Pastillas de freno,Frenos,CDMX,437,1274.97,557161.89
+2023-02-01,P002,Pastillas de freno,Frenos,GDL,315,2129.23,670707.45
+2023-02-01,P002,Pastillas de freno,Frenos,MTY,261,2333.44,609027.84
+2023-03-01,P002,Pastillas de freno,Frenos,CDMX,399,724.91,289239.09
+2023-03-01,P002,Pastillas de freno,Frenos,GDL,375,822.79,308546.25
+2023-03-01,P002,Pastillas de freno,Frenos,MTY,307,445.16,136664.12
+2023-04-01,P002,Pastillas de freno,Frenos,CDMX,404,1807.21,730112.84
+2023-04-01,P002,Pastillas de freno,Frenos,GDL,275,1119.08,307747.0
+2023-04-01,P002,Pastillas de freno,Frenos,MTY,284,729.77,207254.68
+2023-05-01,P002,Pastillas de freno,Frenos,CDMX,408,132.34,53994.72
+2023-05-01,P002,Pastillas de freno,Frenos,GDL,339,1614.39,547278.21
+2023-05-01,P002,Pastillas de freno,Frenos,MTY,271,2230.15,604370.65
+2023-06-01,P002,Pastillas de freno,Frenos,CDMX,448,185.73,83207.04
+2023-06-01,P002,Pastillas de freno,Frenos,GDL,305,1719.42,524423.1
+2023-06-01,P002,Pastillas de freno,Frenos,MTY,343,901.0,309043.0
+2023-07-01,P002,Pastillas de freno,Frenos,CDMX,532,715.6,380699.2
+2023-07-01,P002,Pastillas de freno,Frenos,GDL,409,212.43,86883.87
+2023-07-01,P002,Pastillas de freno,Frenos,MTY,354,897.43,317690.22
+2023-08-01,P002,Pastillas de freno,Frenos,CDMX,399,2090.33,834041.67
+2023-08-01,P002,Pastillas de freno,Frenos,GDL,396,582.62,230717.52
+2023-08-01,P002,Pastillas de freno,Frenos,MTY,303,1099.02,333003.06
+2023-09-01,P002,Pastillas de freno,Frenos,CDMX,422,435.93,183962.46
+2023-09-01,P002,Pastillas de freno,Frenos,GDL,357,2427.5,866617.5
+2023-09-01,P002,Pastillas de freno,Frenos,MTY,263,1890.82,497285.66
+2023-10-01,P002,Pastillas de freno,Frenos,CDMX,367,717.05,263157.35
+2023-10-01,P002,Pastillas de freno,Frenos,GDL,384,258.5,99264.0
+2023-10-01,P002,Pastillas de freno,Frenos,MTY,270,2298.21,620516.7
+2023-11-01,P002,Pastillas de freno,Frenos,CDMX,376,343.42,129125.92
+2023-11-01,P002,Pastillas de freno,Frenos,GDL,321,555.22,178225.62
+2023-11-01,P002,Pastillas de freno,Frenos,MTY,285,1349.74,384675.9
+2023-12-01,P002,Pastillas de freno,Frenos,CDMX,404,1683.92,680303.68
+2023-12-01,P002,Pastillas de freno,Frenos,GDL,336,233.56,78476.16
+2023-12-01,P002,Pastillas de freno,Frenos,MTY,243,1467.17,356522.31
+2022-01-01,P003,Bujías,Encendido,CDMX,267,1248.53,333357.51
+2022-01-01,P003,Bujías,Encendido,GDL,211,352.85,74451.35
+2022-01-01,P003,Bujías,Encendido,MTY,125,532.22,66527.5
+2022-02-01,P003,Bujías,Encendido,CDMX,208,1152.57,239734.56
+2022-02-01,P003,Bujías,Encendido,GDL,197,1631.52,321409.44
+2022-02-01,P003,Bujías,Encendido,MTY,131,227.82,29844.42
+2022-03-01,P003,Bujías,Encendido,CDMX,242,1317.46,318825.32
+2022-03-01,P003,Bujías,Encendido,GDL,147,2158.45,317292.15
+2022-03-01,P003,Bujías,Encendido,MTY,130,287.95,37433.5
+2022-04-01,P003,Bujías,Encendido,CDMX,214,1648.96,352877.44
+2022-04-01,P003,Bujías,Encendido,GDL,160,2357.75,377240.0
+2022-04-01,P003,Bujías,Encendido,MTY,131,1489.63,195141.53
+2022-05-01,P003,Bujías,Encendido,CDMX,241,1210.64,291764.24
+2022-05-01,P003,Bujías,Encendido,GDL,148,1418.57,209948.36
+2022-05-01,P003,Bujías,Encendido,MTY,138,2407.63,332252.94
+2022-06-01,P003,Bujías,Encendido,CDMX,234,2274.73,532286.82
+2022-06-01,P003,Bujías,Encendido,GDL,176,289.43,50939.68
+2022-06-01,P003,Bujías,Encendido,MTY,139,879.16,122203.24
+2022-07-01,P003,Bujías,Encendido,CDMX,247,401.23,99103.81
+2022-07-01,P003,Bujías,Encendido,GDL,213,1778.23,378762.99
+2022-07-01,P003,Bujías,Encendido,MTY,182,1869.47,340243.54
+2022-08-01,P003,Bujías,Encendido,CDMX,238,2032.28,483682.64
+2022-08-01,P003,Bujías,Encendido,GDL,166,1906.46,316472.36
+2022-08-01,P003,Bujías,Encendido,MTY,145,2040.27,295839.15
+2022-09-01,P003,Bujías,Encendido,CDMX,221,1005.4,222193.4
+2022-09-01,P003,Bujías,Encendido,GDL,172,1967.86,338471.92
+2022-09-01,P003,Bujías,Encendido,MTY,151,2163.02,326616.02
+2022-10-01,P003,Bujías,Encendido,CDMX,212,1141.01,241894.12
+2022-10-01,P003,Bujías,Encendido,GDL,177,365.43,64681.11
+2022-10-01,P003,Bujías,Encendido,MTY,150,2268.08,340212.0
+2022-11-01,P003,Bujías,Encendido,CDMX,234,881.72,206322.48
+2022-11-01,P003,Bujías,Encendido,GDL,163,2251.35,366970.05
+2022-11-01,P003,Bujías,Encendido,MTY,142,2382.45,338307.9
+2022-12-01,P003,Bujías,Encendido,CDMX,189,1484.78,280623.42
+2022-12-01,P003,Bujías,Encendido,GDL,137,817.84,112044.08
+2022-12-01,P003,Bujías,Encendido,MTY,145,902.22,130821.9
+2023-01-01,P003,Bujías,Encendido,CDMX,295,2003.96,591168.2
+2023-01-01,P003,Bujías,Encendido,GDL,221,1999.29,441843.09
+2023-01-01,P003,Bujías,Encendido,MTY,176,256.99,45230.24
+2023-02-01,P003,Bujías,Encendido,CDMX,220,1427.88,314133.6
+2023-02-01,P003,Bujías,Encendido,GDL,197,955.18,188170.46
+2023-02-01,P003,Bujías,Encendido,MTY,153,398.62,60988.86
+2023-03-01,P003,Bujías,Encendido,CDMX,234,1591.36,372378.24
+2023-03-01,P003,Bujías,Encendido,GDL,167,360.67,60231.89
+2023-03-01,P003,Bujías,Encendido,MTY,151,293.18,44270.18
+2023-04-01,P003,Bujías,Encendido,CDMX,208,2076.03,431814.24
+2023-04-01,P003,Bujías,Encendido,GDL,160,321.91,51505.6
+2023-04-01,P003,Bujías,Encendido,MTY,144,2468.2,355420.8
+2023-05-01,P003,Bujías,Encendido,CDMX,198,2054.46,406783.08
+2023-05-01,P003,Bujías,Encendido,GDL,153,2374.45,363290.85
+2023-05-01,P003,Bujías,Encendido,MTY,138,1969.61,271806.18
+2023-06-01,P003,Bujías,Encendido,CDMX,230,1449.0,333270.0
+2023-06-01,P003,Bujías,Encendido,GDL,192,384.65,73852.8
+2023-06-01,P003,Bujías,Encendido,MTY,151,1292.45,195159.95
+2023-07-01,P003,Bujías,Encendido,CDMX,271,254.0,68834.0
+2023-07-01,P003,Bujías,Encendido,GDL,204,402.79,82169.16
+2023-07-01,P003,Bujías,Encendido,MTY,182,1895.59,344997.38
+2023-08-01,P003,Bujías,Encendido,CDMX,227,1508.42,342411.34
+2023-08-01,P003,Bujías,Encendido,GDL,185,799.99,147998.15
+2023-08-01,P003,Bujías,Encendido,MTY,164,2187.27,358712.28
+2023-09-01,P003,Bujías,Encendido,CDMX,236,295.64,69771.04
+2023-09-01,P003,Bujías,Encendido,GDL,179,1438.17,257432.43
+2023-09-01,P003,Bujías,Encendido,MTY,152,1617.97,245931.44
+2023-10-01,P003,Bujías,Encendido,CDMX,235,1775.88,417331.8
+2023-10-01,P003,Bujías,Encendido,GDL,204,1510.67,308176.68
+2023-10-01,P003,Bujías,Encendido,MTY,138,2264.76,312536.88
+2023-11-01,P003,Bujías,Encendido,CDMX,261,780.17,203624.37
+2023-11-01,P003,Bujías,Encendido,GDL,160,567.73,90836.8
+2023-11-01,P003,Bujías,Encendido,MTY,120,1509.1,181092.0
+2023-12-01,P003,Bujías,Encendido,CDMX,191,305.01,58256.91
+2023-12-01,P003,Bujías,Encendido,GDL,157,856.68,134498.76
+2023-12-01,P003,Bujías,Encendido,MTY,150,2056.83,308524.5
+2022-01-01,P004,Amortiguador trasero,Suspensión,CDMX,444,301.36,133803.84
+2022-01-01,P004,Amortiguador trasero,Suspensión,GDL,348,2358.47,820747.56
+2022-01-01,P004,Amortiguador trasero,Suspensión,MTY,347,2307.64,800751.08
+2022-02-01,P004,Amortiguador trasero,Suspensión,CDMX,354,316.94,112196.76
+2022-02-01,P004,Amortiguador trasero,Suspensión,GDL,320,512.31,163939.2
+2022-02-01,P004,Amortiguador trasero,Suspensión,MTY,291,1098.79,319747.89
+2022-03-01,P004,Amortiguador trasero,Suspensión,CDMX,389,2464.98,958877.22
+2022-03-01,P004,Amortiguador trasero,Suspensión,GDL,339,1016.64,344640.96
+2022-03-01,P004,Amortiguador trasero,Suspensión,MTY,244,2093.41,510792.04
+2022-04-01,P004,Amortiguador trasero,Suspensión,CDMX,418,1474.41,616303.38
+2022-04-01,P004,Amortiguador trasero,Suspensión,GDL,293,1391.74,407779.82
+2022-04-01,P004,Amortiguador trasero,Suspensión,MTY,235,1904.79,447625.65
+2022-05-01,P004,Amortiguador trasero,Suspensión,CDMX,393,1848.17,726330.81
+2022-05-01,P004,Amortiguador trasero,Suspensión,GDL,318,1921.85,611148.3
+2022-05-01,P004,Amortiguador trasero,Suspensión,MTY,226,608.01,137410.26
+2022-06-01,P004,Amortiguador trasero,Suspensión,CDMX,385,718.43,276595.55
+2022-06-01,P004,Amortiguador trasero,Suspensión,GDL,290,2210.17,640949.3
+2022-06-01,P004,Amortiguador trasero,Suspensión,MTY,251,1921.66,482336.66
+2022-07-01,P004,Amortiguador trasero,Suspensión,CDMX,471,1253.38,590341.98
+2022-07-01,P004,Amortiguador trasero,Suspensión,GDL,350,2098.66,734531.0
+2022-07-01,P004,Amortiguador trasero,Suspensión,MTY,331,2423.78,802271.18
+2022-08-01,P004,Amortiguador trasero,Suspensión,CDMX,402,330.41,132824.82
+2022-08-01,P004,Amortiguador trasero,Suspensión,GDL,334,1262.51,421678.34
+2022-08-01,P004,Amortiguador trasero,Suspensión,MTY,304,1120.88,340747.52
+2022-09-01,P004,Amortiguador trasero,Suspensión,CDMX,421,2036.01,857160.21
+2022-09-01,P004,Amortiguador trasero,Suspensión,GDL,339,2269.5,769360.5
+2022-09-01,P004,Amortiguador trasero,Suspensión,MTY,267,1567.25,418455.75
+2022-10-01,P004,Amortiguador trasero,Suspensión,CDMX,393,1635.21,642637.53
+2022-10-01,P004,Amortiguador trasero,Suspensión,GDL,280,1848.82,517669.6
+2022-10-01,P004,Amortiguador trasero,Suspensión,MTY,258,1422.92,367113.36
+2022-11-01,P004,Amortiguador trasero,Suspensión,CDMX,412,829.14,341605.68
+2022-11-01,P004,Amortiguador trasero,Suspensión,GDL,294,1366.17,401653.98
+2022-11-01,P004,Amortiguador trasero,Suspensión,MTY,271,1213.25,328790.75
+2022-12-01,P004,Amortiguador trasero,Suspensión,CDMX,364,2124.18,773201.52
+2022-12-01,P004,Amortiguador trasero,Suspensión,GDL,269,946.84,254699.96
+2022-12-01,P004,Amortiguador trasero,Suspensión,MTY,217,617.73,134047.41
+2023-01-01,P004,Amortiguador trasero,Suspensión,CDMX,419,1398.69,586051.11
+2023-01-01,P004,Amortiguador trasero,Suspensión,GDL,405,1215.08,492107.4
+2023-01-01,P004,Amortiguador trasero,Suspensión,MTY,275,1780.45,489623.75
+2023-02-01,P004,Amortiguador trasero,Suspensión,CDMX,482,548.56,264405.92
+2023-02-01,P004,Amortiguador trasero,Suspensión,GDL,311,2200.88,684473.68
+2023-02-01,P004,Amortiguador trasero,Suspensión,MTY,319,1346.26,429456.94
+2023-03-01,P004,Amortiguador trasero,Suspensión,CDMX,414,652.76,270242.64
+2023-03-01,P004,Amortiguador trasero,Suspensión,GDL,325,2075.86,674654.5
+2023-03-01,P004,Amortiguador trasero,Suspensión,MTY,241,195.7,47163.7
+2023-04-01,P004,Amortiguador trasero,Suspensión,CDMX,351,1425.94,500504.94
+2023-04-01,P004,Amortiguador trasero,Suspensión,GDL,250,2248.24,562060.0
+2023-04-01,P004,Amortiguador trasero,Suspensión,MTY,267,426.42,113854.14
+2023-05-01,P004,Amortiguador trasero,Suspensión,CDMX,367,339.65,124651.55
+2023-05-01,P004,Amortiguador trasero,Suspensión,GDL,283,1265.13,358031.79
+2023-05-01,P004,Amortiguador trasero,Suspensión,MTY,268,493.61,132287.48
+2023-06-01,P004,Amortiguador trasero,Suspensión,CDMX,492,1017.94,500826.48
+2023-06-01,P004,Amortiguador trasero,Suspensión,GDL,331,2467.29,816672.99
+2023-06-01,P004,Amortiguador trasero,Suspensión,MTY,260,1397.09,363243.4
+2023-07-01,P004,Amortiguador trasero,Suspensión,CDMX,492,1928.69,948915.48
+2023-07-01,P004,Amortiguador trasero,Suspensión,GDL,381,1384.41,527460.21
+2023-07-01,P004,Amortiguador trasero,Suspensión,MTY,316,471.62,149031.92
+2023-08-01,P004,Amortiguador trasero,Suspensión,CDMX,445,436.82,194384.9
+2023-08-01,P004,Amortiguador trasero,Suspensión,GDL,362,1904.09,689280.58
+2023-08-01,P004,Amortiguador trasero,Suspensión,MTY,299,192.52,57563.48
+2023-09-01,P004,Amortiguador trasero,Suspensión,CDMX,409,1065.25,435687.25
+2023-09-01,P004,Amortiguador trasero,Suspensión,GDL,347,369.59,128247.73
+2023-09-01,P004,Amortiguador trasero,Suspensión,MTY,258,1462.24,377257.92
+2023-10-01,P004,Amortiguador trasero,Suspensión,CDMX,429,2120.89,909861.81
+2023-10-01,P004,Amortiguador trasero,Suspensión,GDL,317,675.06,213994.02
+2023-10-01,P004,Amortiguador trasero,Suspensión,MTY,249,936.17,233106.33
+2023-11-01,P004,Amortiguador trasero,Suspensión,CDMX,333,1664.2,554178.6
+2023-11-01,P004,Amortiguador trasero,Suspensión,GDL,300,1261.41,378423.0
+2023-11-01,P004,Amortiguador trasero,Suspensión,MTY,296,1447.43,428439.28
+2023-12-01,P004,Amortiguador trasero,Suspensión,CDMX,378,1515.95,573029.1
+2023-12-01,P004,Amortiguador trasero,Suspensión,GDL,233,923.12,215086.96
+2023-12-01,P004,Amortiguador trasero,Suspensión,MTY,256,2261.16,578856.96
+2022-01-01,P005,Correa de distribución,Motor,CDMX,529,2467.91,1305524.39
+2022-01-01,P005,Correa de distribución,Motor,GDL,516,1561.74,805857.84
+2022-01-01,P005,Correa de distribución,Motor,MTY,396,483.8,191584.8
+2022-02-01,P005,Correa de distribución,Motor,CDMX,538,705.38,379494.44
+2022-02-01,P005,Correa de distribución,Motor,GDL,409,798.53,326598.77
+2022-02-01,P005,Correa de distribución,Motor,MTY,347,532.63,184822.61
+2022-03-01,P005,Correa de distribución,Motor,CDMX,419,2458.06,1029927.14
+2022-03-01,P005,Correa de distribución,Motor,GDL,425,386.65,164326.25
+2022-03-01,P005,Correa de distribución,Motor,MTY,353,2179.91,769508.23
+2022-04-01,P005,Correa de distribución,Motor,CDMX,497,2064.63,1026121.11
+2022-04-01,P005,Correa de distribución,Motor,GDL,362,1711.37,619515.94
+2022-04-01,P005,Correa de distribución,Motor,MTY,313,2331.91,729887.83
+2022-05-01,P005,Correa de distribución,Motor,CDMX,603,786.35,474169.05
+2022-05-01,P005,Correa de distribución,Motor,GDL,450,1951.39,878125.5
+2022-05-01,P005,Correa de distribución,Motor,MTY,323,1132.54,365810.42
+2022-06-01,P005,Correa de distribución,Motor,CDMX,498,1328.11,661398.78
+2022-06-01,P005,Correa de distribución,Motor,GDL,401,1573.28,630885.28
+2022-06-01,P005,Correa de distribución,Motor,MTY,345,806.94,278394.3
+2022-07-01,P005,Correa de distribución,Motor,CDMX,571,1265.11,722377.81
+2022-07-01,P005,Correa de distribución,Motor,GDL,494,1387.56,685454.64
+2022-07-01,P005,Correa de distribución,Motor,MTY,406,439.91,178603.46
+2022-08-01,P005,Correa de distribución,Motor,CDMX,543,270.83,147060.69
+2022-08-01,P005,Correa de distribución,Motor,GDL,411,1741.98,715953.78
+2022-08-01,P005,Correa de distribución,Motor,MTY,389,1929.34,750513.26
+2022-09-01,P005,Correa de distribución,Motor,CDMX,506,1100.18,556691.08
+2022-09-01,P005,Correa de distribución,Motor,GDL,493,950.31,468502.83
+2022-09-01,P005,Correa de distribución,Motor,MTY,356,551.33,196273.48
+2022-10-01,P005,Correa de distribución,Motor,CDMX,527,278.26,146643.02
+2022-10-01,P005,Correa de distribución,Motor,GDL,418,2123.55,887643.9
+2022-10-01,P005,Correa de distribución,Motor,MTY,385,452.66,174274.1
+2022-11-01,P005,Correa de distribución,Motor,CDMX,489,509.5,249145.5
+2022-11-01,P005,Correa de distribución,Motor,GDL,414,510.95,211533.3
+2022-11-01,P005,Correa de distribución,Motor,MTY,350,1364.9,477715.0
+2022-12-01,P005,Correa de distribución,Motor,CDMX,500,974.02,487010.0
+2022-12-01,P005,Correa de distribución,Motor,GDL,347,2063.51,716037.97
+2022-12-01,P005,Correa de distribución,Motor,MTY,325,1165.14,378670.5
+2023-01-01,P005,Correa de distribución,Motor,CDMX,619,837.28,518276.32
+2023-01-01,P005,Correa de distribución,Motor,GDL,413,1899.31,784415.03
+2023-01-01,P005,Correa de distribución,Motor,MTY,374,2260.99,845610.26
+2023-02-01,P005,Correa de distribución,Motor,CDMX,575,1033.66,594354.5
+2023-02-01,P005,Correa de distribución,Motor,GDL,473,1605.69,759491.37
+2023-02-01,P005,Correa de distribución,Motor,MTY,378,398.22,150527.16
+2023-03-01,P005,Correa de distribución,Motor,CDMX,557,917.08,510813.56
+2023-03-01,P005,Correa de distribución,Motor,GDL,442,451.47,199549.74
+2023-03-01,P005,Correa de distribución,Motor,MTY,374,1389.64,519725.36
+2023-04-01,P005,Correa de distribución,Motor,CDMX,576,2247.46,1294536.96
+2023-04-01,P005,Correa de distribución,Motor,GDL,387,861.9,333555.3
+2023-04-01,P005,Correa de distribución,Motor,MTY,353,711.4,251124.2
+2023-05-01,P005,Correa de distribución,Motor,CDMX,608,2206.7,1341673.6
+2023-05-01,P005,Correa de distribución,Motor,GDL,431,934.15,402618.65
+2023-05-01,P005,Correa de distribución,Motor,MTY,391,476.8,186428.8
+2023-06-01,P005,Correa de distribución,Motor,CDMX,546,665.62,363428.52
+2023-06-01,P005,Correa de distribución,Motor,GDL,469,1645.93,771941.17
+2023-06-01,P005,Correa de distribución,Motor,MTY,399,1771.6,706868.4
+2023-07-01,P005,Correa de distribución,Motor,CDMX,572,942.76,539258.72
+2023-07-01,P005,Correa de distribución,Motor,GDL,517,552.2,285487.4
+2023-07-01,P005,Correa de distribución,Motor,MTY,436,1074.03,468277.08
+2023-08-01,P005,Correa de distribución,Motor,CDMX,627,1219.57,764670.39
+2023-08-01,P005,Correa de distribución,Motor,GDL,459,1575.26,723044.34
+2023-08-01,P005,Correa de distribución,Motor,MTY,465,163.1,75841.5
+2023-09-01,P005,Correa de distribución,Motor,CDMX,642,2315.55,1486583.1
+2023-09-01,P005,Correa de distribución,Motor,GDL,452,1803.23,815059.96
+2023-09-01,P005,Correa de distribución,Motor,MTY,374,1563.98,584928.52
+2023-10-01,P005,Correa de distribución,Motor,CDMX,497,1129.43,561326.71
+2023-10-01,P005,Correa de distribución,Motor,GDL,427,2322.85,991856.95
+2023-10-01,P005,Correa de distribución,Motor,MTY,360,1193.0,429480.0
+2023-11-01,P005,Correa de distribución,Motor,CDMX,647,1069.63,692050.61
+2023-11-01,P005,Correa de distribución,Motor,GDL,431,250.33,107892.23
+2023-11-01,P005,Correa de distribución,Motor,MTY,381,131.02,49918.62
+2023-12-01,P005,Correa de distribución,Motor,CDMX,460,913.73,420315.8
+2023-12-01,P005,Correa de distribución,Motor,GDL,397,2309.26,916776.22
+2023-12-01,P005,Correa de distribución,Motor,MTY,257,944.3,242685.1
+2022-01-01,P006,Radiador,Refrigeración,CDMX,483,1517.22,732817.26
+2022-01-01,P006,Radiador,Refrigeración,GDL,347,198.18,68768.46
+2022-01-01,P006,Radiador,Refrigeración,MTY,291,1494.76,434975.16
+2022-02-01,P006,Radiador,Refrigeración,CDMX,407,513.92,209165.44
+2022-02-01,P006,Radiador,Refrigeración,GDL,288,643.83,185423.04
+2022-02-01,P006,Radiador,Refrigeración,MTY,278,626.18,174078.04
+2022-03-01,P006,Radiador,Refrigeración,CDMX,393,1212.39,476469.27
+2022-03-01,P006,Radiador,Refrigeración,GDL,292,1446.39,422345.88
+2022-03-01,P006,Radiador,Refrigeración,MTY,250,559.02,139755.0
+2022-04-01,P006,Radiador,Refrigeración,CDMX,395,833.04,329050.8
+2022-04-01,P006,Radiador,Refrigeración,GDL,259,1135.76,294161.84
+2022-04-01,P006,Radiador,Refrigeración,MTY,206,2023.48,416836.88
+2022-05-01,P006,Radiador,Refrigeración,CDMX,362,1607.44,581893.28
+2022-05-01,P006,Radiador,Refrigeración,GDL,239,1018.99,243538.61
+2022-05-01,P006,Radiador,Refrigeración,MTY,251,819.83,205777.33
+2022-06-01,P006,Radiador,Refrigeración,CDMX,429,1819.46,780548.34
+2022-06-01,P006,Radiador,Refrigeración,GDL,360,1264.99,455396.4
+2022-06-01,P006,Radiador,Refrigeración,MTY,296,1302.89,385655.44
+2022-07-01,P006,Radiador,Refrigeración,CDMX,442,915.78,404774.76
+2022-07-01,P006,Radiador,Refrigeración,GDL,357,299.7,106992.9
+2022-07-01,P006,Radiador,Refrigeración,MTY,278,2255.88,627134.64
+2022-08-01,P006,Radiador,Refrigeración,CDMX,437,1373.26,600114.62
+2022-08-01,P006,Radiador,Refrigeración,GDL,343,724.25,248417.75
+2022-08-01,P006,Radiador,Refrigeración,MTY,219,586.75,128498.25
+2022-09-01,P006,Radiador,Refrigeración,CDMX,469,927.47,434983.43
+2022-09-01,P006,Radiador,Refrigeración,GDL,302,1475.28,445534.56
+2022-09-01,P006,Radiador,Refrigeración,MTY,257,1835.54,471733.78
+2022-10-01,P006,Radiador,Refrigeración,CDMX,408,2036.65,830953.2
+2022-10-01,P006,Radiador,Refrigeración,GDL,291,2040.3,593727.3
+2022-10-01,P006,Radiador,Refrigeración,MTY,249,2411.11,600366.39
+2022-11-01,P006,Radiador,Refrigeración,CDMX,322,326.88,105255.36
+2022-11-01,P006,Radiador,Refrigeración,GDL,265,1627.11,431184.15
+2022-11-01,P006,Radiador,Refrigeración,MTY,257,412.21,105937.97
+2022-12-01,P006,Radiador,Refrigeración,CDMX,347,2205.94,765461.18
+2022-12-01,P006,Radiador,Refrigeración,GDL,285,2287.29,651877.65
+2022-12-01,P006,Radiador,Refrigeración,MTY,235,1606.93,377628.55
+2023-01-01,P006,Radiador,Refrigeración,CDMX,512,984.08,503848.96
+2023-01-01,P006,Radiador,Refrigeración,GDL,350,201.46,70511.0
+2023-01-01,P006,Radiador,Refrigeración,MTY,298,1961.73,584595.54
+2023-02-01,P006,Radiador,Refrigeración,CDMX,450,983.36,442512.0
+2023-02-01,P006,Radiador,Refrigeración,GDL,311,2439.42,758659.62
+2023-02-01,P006,Radiador,Refrigeración,MTY,282,1975.83,557184.06
+2023-03-01,P006,Radiador,Refrigeración,CDMX,403,2465.17,993463.51
+2023-03-01,P006,Radiador,Refrigeración,GDL,282,1241.14,350001.48
+2023-03-01,P006,Radiador,Refrigeración,MTY,259,1339.65,346969.35
+2023-04-01,P006,Radiador,Refrigeración,CDMX,338,1885.21,637200.98
+2023-04-01,P006,Radiador,Refrigeración,GDL,273,638.89,174416.97
+2023-04-01,P006,Radiador,Refrigeración,MTY,280,1655.23,463464.4
+2023-05-01,P006,Radiador,Refrigeración,CDMX,360,2263.36,814809.6
+2023-05-01,P006,Radiador,Refrigeración,GDL,297,1765.11,524237.67
+2023-05-01,P006,Radiador,Refrigeración,MTY,276,1380.59,381042.84
+2023-06-01,P006,Radiador,Refrigeración,CDMX,428,2059.83,881607.24
+2023-06-01,P006,Radiador,Refrigeración,GDL,296,1084.49,321009.04
+2023-06-01,P006,Radiador,Refrigeración,MTY,268,1303.97,349463.96
+2023-07-01,P006,Radiador,Refrigeración,CDMX,455,453.24,206224.2
+2023-07-01,P006,Radiador,Refrigeración,GDL,376,747.57,281086.32
+2023-07-01,P006,Radiador,Refrigeración,MTY,334,716.74,239391.16
+2023-08-01,P006,Radiador,Refrigeración,CDMX,394,1626.77,640947.38
+2023-08-01,P006,Radiador,Refrigeración,GDL,400,2114.69,845876.0
+2023-08-01,P006,Radiador,Refrigeración,MTY,273,1082.43,295503.39
+2023-09-01,P006,Radiador,Refrigeración,CDMX,393,962.21,378148.53
+2023-09-01,P006,Radiador,Refrigeración,GDL,349,2401.53,838133.97
+2023-09-01,P006,Radiador,Refrigeración,MTY,261,2298.92,600018.12
+2023-10-01,P006,Radiador,Refrigeración,CDMX,434,1837.25,797366.5
+2023-10-01,P006,Radiador,Refrigeración,GDL,318,1064.03,338361.54
+2023-10-01,P006,Radiador,Refrigeración,MTY,262,2390.73,626371.26
+2023-11-01,P006,Radiador,Refrigeración,CDMX,388,762.39,295807.32
+2023-11-01,P006,Radiador,Refrigeración,GDL,272,1404.83,382113.76
+2023-11-01,P006,Radiador,Refrigeración,MTY,260,2134.45,554957.0
+2023-12-01,P006,Radiador,Refrigeración,CDMX,342,2393.46,818563.32
+2023-12-01,P006,Radiador,Refrigeración,GDL,277,1248.68,345884.36
+2023-12-01,P006,Radiador,Refrigeración,MTY,209,939.63,196382.67
+2022-01-01,P007,Batería 12V,Eléctrico,CDMX,585,1758.4,1028664.0
+2022-01-01,P007,Batería 12V,Eléctrico,GDL,515,1154.89,594768.35
+2022-01-01,P007,Batería 12V,Eléctrico,MTY,405,2022.61,819157.05
+2022-02-01,P007,Batería 12V,Eléctrico,CDMX,492,1773.38,872502.96
+2022-02-01,P007,Batería 12V,Eléctrico,GDL,416,979.12,407313.92
+2022-02-01,P007,Batería 12V,Eléctrico,MTY,294,337.97,99363.18
+2022-03-01,P007,Batería 12V,Eléctrico,CDMX,490,560.62,274703.8
+2022-03-01,P007,Batería 12V,Eléctrico,GDL,398,1409.72,561068.56
+2022-03-01,P007,Batería 12V,Eléctrico,MTY,332,2039.62,677153.84
+2022-04-01,P007,Batería 12V,Eléctrico,CDMX,493,1687.9,832134.7
+2022-04-01,P007,Batería 12V,Eléctrico,GDL,386,714.21,275685.06
+2022-04-01,P007,Batería 12V,Eléctrico,MTY,318,1284.83,408575.94
+2022-05-01,P007,Batería 12V,Eléctrico,CDMX,504,549.77,277084.08
+2022-05-01,P007,Batería 12V,Eléctrico,GDL,381,1471.71,560721.51
+2022-05-01,P007,Batería 12V,Eléctrico,MTY,291,2320.06,675137.46
+2022-06-01,P007,Batería 12V,Eléctrico,CDMX,552,2431.12,1341978.24
+2022-06-01,P007,Batería 12V,Eléctrico,GDL,390,2171.66,846947.4
+2022-06-01,P007,Batería 12V,Eléctrico,MTY,351,2130.03,747640.53
+2022-07-01,P007,Batería 12V,Eléctrico,CDMX,635,208.08,132130.8
+2022-07-01,P007,Batería 12V,Eléctrico,GDL,436,1539.12,671056.32
+2022-07-01,P007,Batería 12V,Eléctrico,MTY,373,303.15,113074.95
+2022-08-01,P007,Batería 12V,Eléctrico,CDMX,515,1777.17,915242.55
+2022-08-01,P007,Batería 12V,Eléctrico,GDL,447,275.55,123170.85
+2022-08-01,P007,Batería 12V,Eléctrico,MTY,320,870.39,278524.8
+2022-09-01,P007,Batería 12V,Eléctrico,CDMX,563,878.63,494668.69
+2022-09-01,P007,Batería 12V,Eléctrico,GDL,394,1609.62,634190.28
+2022-09-01,P007,Batería 12V,Eléctrico,MTY,337,674.44,227286.28
+2022-10-01,P007,Batería 12V,Eléctrico,CDMX,526,178.07,93664.82
+2022-10-01,P007,Batería 12V,Eléctrico,GDL,380,2354.98,894892.4
+2022-10-01,P007,Batería 12V,Eléctrico,MTY,348,2021.1,703342.8
+2022-11-01,P007,Batería 12V,Eléctrico,CDMX,463,1262.1,584352.3
+2022-11-01,P007,Batería 12V,Eléctrico,GDL,413,1613.46,666358.98
+2022-11-01,P007,Batería 12V,Eléctrico,MTY,304,1122.83,341340.32
+2022-12-01,P007,Batería 12V,Eléctrico,CDMX,484,1875.45,907717.8
+2022-12-01,P007,Batería 12V,Eléctrico,GDL,322,964.0,310408.0
+2022-12-01,P007,Batería 12V,Eléctrico,MTY,277,803.63,222605.51
+2023-01-01,P007,Batería 12V,Eléctrico,CDMX,565,220.18,124401.7
+2023-01-01,P007,Batería 12V,Eléctrico,GDL,444,162.54,72167.76
+2023-01-01,P007,Batería 12V,Eléctrico,MTY,401,1034.7,414914.7
+2023-02-01,P007,Batería 12V,Eléctrico,CDMX,550,1737.56,955658.0
+2023-02-01,P007,Batería 12V,Eléctrico,GDL,448,2368.46,1061070.08
+2023-02-01,P007,Batería 12V,Eléctrico,MTY,347,1232.42,427649.74
+2023-03-01,P007,Batería 12V,Eléctrico,CDMX,470,2478.98,1165120.6
+2023-03-01,P007,Batería 12V,Eléctrico,GDL,409,671.38,274594.42
+2023-03-01,P007,Batería 12V,Eléctrico,MTY,342,1566.41,535712.22
+2023-04-01,P007,Batería 12V,Eléctrico,CDMX,512,1340.2,686182.4
+2023-04-01,P007,Batería 12V,Eléctrico,GDL,359,644.76,231468.84
+2023-04-01,P007,Batería 12V,Eléctrico,MTY,308,563.72,173625.76
+2023-05-01,P007,Batería 12V,Eléctrico,CDMX,484,257.67,124712.28
+2023-05-01,P007,Batería 12V,Eléctrico,GDL,429,2426.46,1040951.34
+2023-05-01,P007,Batería 12V,Eléctrico,MTY,371,1776.53,659092.63
+2023-06-01,P007,Batería 12V,Eléctrico,CDMX,508,486.27,247025.16
+2023-06-01,P007,Batería 12V,Eléctrico,GDL,391,652.69,255201.79
+2023-06-01,P007,Batería 12V,Eléctrico,MTY,366,1398.0,511668.0
+2023-07-01,P007,Batería 12V,Eléctrico,CDMX,695,337.74,234729.3
+2023-07-01,P007,Batería 12V,Eléctrico,GDL,544,2208.36,1201347.84
+2023-07-01,P007,Batería 12V,Eléctrico,MTY,384,2235.22,858324.48
+2023-08-01,P007,Batería 12V,Eléctrico,CDMX,535,2394.45,1281030.75
+2023-08-01,P007,Batería 12V,Eléctrico,GDL,434,1679.48,728894.32
+2023-08-01,P007,Batería 12V,Eléctrico,MTY,371,1431.04,530915.84
+2023-09-01,P007,Batería 12V,Eléctrico,CDMX,520,1007.0,523640.0
+2023-09-01,P007,Batería 12V,Eléctrico,GDL,380,738.21,280519.8
+2023-09-01,P007,Batería 12V,Eléctrico,MTY,344,312.89,107634.16
+2023-10-01,P007,Batería 12V,Eléctrico,CDMX,588,644.04,378695.52
+2023-10-01,P007,Batería 12V,Eléctrico,GDL,379,2145.87,813284.73
+2023-10-01,P007,Batería 12V,Eléctrico,MTY,342,1298.45,444069.9
+2023-11-01,P007,Batería 12V,Eléctrico,CDMX,607,2082.74,1264223.18
+2023-11-01,P007,Batería 12V,Eléctrico,GDL,372,947.79,352577.88
+2023-11-01,P007,Batería 12V,Eléctrico,MTY,348,755.53,262924.44
+2023-12-01,P007,Batería 12V,Eléctrico,CDMX,521,2211.14,1152003.94
+2023-12-01,P007,Batería 12V,Eléctrico,GDL,365,2144.38,782698.7
+2023-12-01,P007,Batería 12V,Eléctrico,MTY,323,2184.16,705483.68
+2022-01-01,P008,Faro delantero,Iluminación,CDMX,352,2333.62,821434.24
+2022-01-01,P008,Faro delantero,Iluminación,GDL,281,371.89,104501.09
+2022-01-01,P008,Faro delantero,Iluminación,MTY,235,2218.3,521300.5
+2022-02-01,P008,Faro delantero,Iluminación,CDMX,357,2407.93,859631.01
+2022-02-01,P008,Faro delantero,Iluminación,GDL,284,132.25,37559.0
+2022-02-01,P008,Faro delantero,Iluminación,MTY,221,2071.47,457794.87
+2022-03-01,P008,Faro delantero,Iluminación,CDMX,332,122.67,40726.44
+2022-03-01,P008,Faro delantero,Iluminación,GDL,247,1443.71,356596.37
+2022-03-01,P008,Faro delantero,Iluminación,MTY,199,579.66,115352.34
+2022-04-01,P008,Faro delantero,Iluminación,CDMX,332,320.15,106289.8
+2022-04-01,P008,Faro delantero,Iluminación,GDL,251,395.71,99323.21
+2022-04-01,P008,Faro delantero,Iluminación,MTY,172,1016.53,174843.16
+2022-05-01,P008,Faro delantero,Iluminación,CDMX,312,163.86,51124.32
+2022-05-01,P008,Faro delantero,Iluminación,GDL,234,1148.73,268802.82
+2022-05-01,P008,Faro delantero,Iluminación,MTY,204,547.2,111628.8
+2022-06-01,P008,Faro delantero,Iluminación,CDMX,366,1913.8,700450.8
+2022-06-01,P008,Faro delantero,Iluminación,GDL,247,1954.63,482793.61
+2022-06-01,P008,Faro delantero,Iluminación,MTY,228,2374.57,541401.96
+2022-07-01,P008,Faro delantero,Iluminación,CDMX,406,1806.4,733398.4
+2022-07-01,P008,Faro delantero,Iluminación,GDL,286,1247.11,356673.46
+2022-07-01,P008,Faro delantero,Iluminación,MTY,243,1661.23,403678.89
+2022-08-01,P008,Faro delantero,Iluminación,CDMX,402,1534.66,616933.32
+2022-08-01,P008,Faro delantero,Iluminación,GDL,255,2075.2,529176.0
+2022-08-01,P008,Faro delantero,Iluminación,MTY,225,1004.96,226116.0
+2022-09-01,P008,Faro delantero,Iluminación,CDMX,318,122.45,38939.1
+2022-09-01,P008,Faro delantero,Iluminación,GDL,271,498.27,135031.17
+2022-09-01,P008,Faro delantero,Iluminación,MTY,230,363.22,83540.6
+2022-10-01,P008,Faro delantero,Iluminación,CDMX,323,2153.02,695425.46
+2022-10-01,P008,Faro delantero,Iluminación,GDL,276,830.13,229115.88
+2022-10-01,P008,Faro delantero,Iluminación,MTY,214,2119.07,453480.98
+2022-11-01,P008,Faro delantero,Iluminación,CDMX,301,432.58,130206.58
+2022-11-01,P008,Faro delantero,Iluminación,GDL,260,2185.97,568352.2
+2022-11-01,P008,Faro delantero,Iluminación,MTY,216,2160.52,466672.32
+2022-12-01,P008,Faro delantero,Iluminación,CDMX,292,2415.56,705343.52
+2022-12-01,P008,Faro delantero,Iluminación,GDL,214,862.45,184564.3
+2022-12-01,P008,Faro delantero,Iluminación,MTY,211,883.37,186391.07
+2023-01-01,P008,Faro delantero,Iluminación,CDMX,437,596.85,260823.45
+2023-01-01,P008,Faro delantero,Iluminación,GDL,334,2186.13,730167.42
+2023-01-01,P008,Faro delantero,Iluminación,MTY,276,1242.25,342861.0
+2023-02-01,P008,Faro delantero,Iluminación,CDMX,406,1412.89,573633.34
+2023-02-01,P008,Faro delantero,Iluminación,GDL,265,336.97,89297.05
+2023-02-01,P008,Faro delantero,Iluminación,MTY,224,485.71,108799.04
+2023-03-01,P008,Faro delantero,Iluminación,CDMX,386,162.51,62728.86
+2023-03-01,P008,Faro delantero,Iluminación,GDL,210,2016.38,423439.8
+2023-03-01,P008,Faro delantero,Iluminación,MTY,232,2422.68,562061.76
+2023-04-01,P008,Faro delantero,Iluminación,CDMX,319,561.39,179083.41
+2023-04-01,P008,Faro delantero,Iluminación,GDL,283,709.15,200689.45
+2023-04-01,P008,Faro delantero,Iluminación,MTY,238,1449.02,344866.76
+2023-05-01,P008,Faro delantero,Iluminación,CDMX,321,1670.62,536269.02
+2023-05-01,P008,Faro delantero,Iluminación,GDL,249,895.7,223029.3
+2023-05-01,P008,Faro delantero,Iluminación,MTY,194,2462.76,477775.44
+2023-06-01,P008,Faro delantero,Iluminación,CDMX,407,476.0,193732.0
+2023-06-01,P008,Faro delantero,Iluminación,GDL,313,1061.4,332218.2
+2023-06-01,P008,Faro delantero,Iluminación,MTY,223,2439.79,544073.17
+2023-07-01,P008,Faro delantero,Iluminación,CDMX,438,1921.8,841748.4
+2023-07-01,P008,Faro delantero,Iluminación,GDL,346,2387.3,826005.8
+2023-07-01,P008,Faro delantero,Iluminación,MTY,273,1903.0,519519.0
+2023-08-01,P008,Faro delantero,Iluminación,CDMX,379,467.29,177102.91
+2023-08-01,P008,Faro delantero,Iluminación,GDL,284,163.71,46493.64
+2023-08-01,P008,Faro delantero,Iluminación,MTY,221,1268.01,280230.21
+2023-09-01,P008,Faro delantero,Iluminación,CDMX,332,1966.42,652851.44
+2023-09-01,P008,Faro delantero,Iluminación,GDL,244,2360.15,575876.6
+2023-09-01,P008,Faro delantero,Iluminación,MTY,229,2220.43,508478.47
+2023-10-01,P008,Faro delantero,Iluminación,CDMX,319,316.37,100922.03
+2023-10-01,P008,Faro delantero,Iluminación,GDL,251,886.59,222534.09
+2023-10-01,P008,Faro delantero,Iluminación,MTY,241,2446.37,589575.17
+2023-11-01,P008,Faro delantero,Iluminación,CDMX,351,2075.03,728335.53
+2023-11-01,P008,Faro delantero,Iluminación,GDL,237,218.02,51670.74
+2023-11-01,P008,Faro delantero,Iluminación,MTY,224,415.64,93103.36
+2023-12-01,P008,Faro delantero,Iluminación,CDMX,303,2253.01,682662.03
+2023-12-01,P008,Faro delantero,Iluminación,GDL,262,1578.81,413648.22
+2023-12-01,P008,Faro delantero,Iluminación,MTY,218,831.23,181208.14
